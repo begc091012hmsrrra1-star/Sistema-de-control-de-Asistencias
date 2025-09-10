@@ -4,5 +4,6 @@ de jira y git hub en faboritos para que lo vean.
 
 IMPORTANTE
 Pueden subir aqui sus practicas HTML, python, CSS y JavaScript para apoyarnos mutuamente
+-Carlos Adrian BG
 
               Att. Andre
